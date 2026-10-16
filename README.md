@@ -4,7 +4,7 @@ A fully responsive, custom "link-in-bio" profile portal built from scratch. This
 
 ## 🚀 Live Demo
 You can view the live deployment here:
-👉 **[https://github.io](https://github.com/tylieddy/link_tree_trial_main/edit/main)**
+👉 **[https://github.io](https://github.com/tylieddy/link_tree_trial_main/tree/main)**
 
 ## ✨ Features
 - 📱 **Mobile-First Design:** Fluid layout perfectly formatted for smartphone screens and web browsers.
